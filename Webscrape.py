@@ -95,5 +95,3 @@ for i in range(25):
 
 print("Scraped data has been stored in "+ workbookname)
 driver.quit()
-# Close the browser window
-#driver.quit()
